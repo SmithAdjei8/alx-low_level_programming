@@ -8,3 +8,4 @@
 7-print tebahpla
 8-Base 16
 9-Print Comb
+10-Print Comb 3
