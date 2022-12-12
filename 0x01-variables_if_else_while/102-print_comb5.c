@@ -23,7 +23,7 @@ op1 = (h * 10) + g;
 op2 = (e * 10) + i;
 if (op1 < op2)
 {
-putchar(h);  
+putchar(h);
 putchar(g);
 putchar(' ');
 putchar(e);
