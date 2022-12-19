@@ -8,3 +8,4 @@ Pointers
 6-Puts2
 7-Puts_half
 8-Print Array
+9-Strcpy
