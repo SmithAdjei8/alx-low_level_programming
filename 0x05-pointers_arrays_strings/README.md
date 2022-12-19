@@ -5,3 +5,4 @@ Pointers
 3-Puts
 4-Print_rev
 5-Rev String
+6-Puts2
