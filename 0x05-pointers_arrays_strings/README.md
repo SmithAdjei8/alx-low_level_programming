@@ -7,3 +7,4 @@ Pointers
 5-Rev String
 6-Puts2
 7-Puts_half
+8-Print Array
