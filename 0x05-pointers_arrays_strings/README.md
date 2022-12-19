@@ -9,3 +9,4 @@ Pointers
 7-Puts_half
 8-Print Array
 9-Strcpy
+10-Atoi
